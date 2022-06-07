@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @hainamtr317
 - 👀 I’m interested in technology.
-- 🌱 I’m currently learning front end, database.
+- 🌱 I learned about Java, C/C++
+- 🌱 I’m currently learning react,front end, database.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me by email hainamtr317@gmail.com
 
